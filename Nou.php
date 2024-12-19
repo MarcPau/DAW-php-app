@@ -3,6 +3,8 @@
 require_once('Connexio.php');
 require_once('Header.php');
 
+
+
 class Nou {
 
     // Método para mostrar el formulario de creación de un nuevo producto
@@ -52,7 +54,7 @@ class Nou {
                         <!-- Agrega más campos según sea necesario -->
 
                         <hr>
-                        <!-- Botones de guardar y cancelar -->
+                        <!-- Botones de guardar y cancelarr -->
                         <input type="submit" value="Guardar" class="btn btn-primary">
                         <a href="Principal.php" class="btn btn-secondary">Cancelar</a>
                     </form>
